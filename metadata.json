@@ -1,0 +1,7 @@
+{
+  "name": "SmartVisit - Hệ Thống Quản Lý Khách Thăm",
+  "description": "Hệ thống đăng ký và phê duyệt khách thăm hiện đại tích hợp AI. Cho phép khách đăng ký qua mã QR, tra cứu trạng thái và cán bộ quản lý phê duyệt trực tuyến.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
